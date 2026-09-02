@@ -1,24 +1,43 @@
-# 💫 About Me:
-¡Hola! Soy un apasionado programador joven de 24 años, orgullosamente guatemalteco, con un ardiente deseo de aprender y sobresalir en el emocionante mundo del desarrollo de software.<br><br>Desde que me sumergí en el mundo de la programación, he experimentado una fascinación constante por la creación de soluciones innovadoras y efectivas para desafíos tecnológicos. Mi enfoque es siempre estar al día con las últimas tendencias y tecnologías en el campo, lo que me permite aportar ideas frescas y creativas a cada proyecto en el que participo.<br><br>La resolución de problemas es mi pasión y considero cada desafío como una oportunidad para crecer y aprender. Mi compromiso con la excelencia y mi mentalidad orientada al trabajo en equipo me permiten colaborar de manera efectiva con otros desarrolladores y equipos multidisciplinarios.<br><br>Estoy emocionado por la oportunidad de formar parte de proyectos desafiantes y dinámicos, donde pueda aplicar mis habilidades y conocimientos para crear soluciones impactantes. Mi objetivo es contribuir de manera significativa al éxito de cualquier empresa o equipo en el que participe.<br><br>Si estás buscando a alguien con un fuerte deseo de aprender, una ética de trabajo inquebrantable y la pasión por la programación, ¡estás en el lugar adecuado! Estoy listo para enfrentar nuevos desafíos y ayudar a tu equipo a alcanzar sus objetivos.
+# Hi, I'm Steven Rodríguez 👋
 
+**Tech Lead & Full-Stack Engineer · Guatemala 🇬🇹**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/steven.rs.35/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/steven_e.bat/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/steven-rodriguez-6734231b7/) 
+I lead the digital platform at **[Voalá](https://somosvoala.com)**, a Guatemalan beauty brand: a business-management platform for beauty professionals (bookings, clients, e-commerce, POS, marketplace, academy and marketing), built with **Node.js, PostgreSQL and React on AWS**. That work lives in private repos, so this profile shows the personal side.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stevenrs145&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=stevenrs145&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenrs145&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## What I do
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=stevenrs145&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+- **Architecture & full-stack development** — Node.js · TypeScript · React / Angular / Vue · PostgreSQL · AWS
+- **Product & UX/UI** for non-technical users (I design the interfaces and lead the design team)
+- **Roles, access control & security** — permission matrices enforced in the backend, technical audits
+- **Integrations & automation** — REST and MCP APIs, WhatsApp bots (Twilio), n8n flows, Resend, WordPress / WooCommerce
+- **Team leadership** — dev + design team with Scrum: code reviews, estimation, sprint planning, stakeholder updates
+- **AI-assisted development** — Claude Code and MCP in my daily workflow, always with human review before anything ships
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Currently building
 
----
-[![](https://visitcount.itsvg.in/api?id=stevenrs145&icon=0&color=0)](https://visitcount.itsvg.in)
+- **GymPal** — personal PWA to log workouts and recognize gym equipment from photos (Next.js · TypeScript · PostgreSQL · Tailwind · AI vision)
+- **Claude Code workflow for teams** — the conventions, skills and review checklist I use to keep AI-generated code at the team's quality bar *(coming soon)*
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-stevenrodriguezdev-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stevenrodriguezdev)
+[![Email](https://img.shields.io/badge/Email-steven.rs1234%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:steven.rs1234@gmail.com)
+
+*Hablo español; I work in English too.*
