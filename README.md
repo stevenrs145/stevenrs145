@@ -13,10 +13,9 @@ I lead the digital platform at **[Voalá](https://somosvoala.com)**, a Guatemala
 - **Team leadership** — dev + design team with Scrum: code reviews, estimation, sprint planning, stakeholder updates
 - **AI-assisted development** — Claude Code and MCP in my daily workflow, always with human review before anything ships
 
-## Currently building
+## Coming soon
 
-- **GymPal** — personal PWA to log workouts and recognize gym equipment from photos (Next.js · TypeScript · PostgreSQL · Tailwind · AI vision)
-- **Claude Code workflow for teams** — the conventions, skills and review checklist I use to keep AI-generated code at the team's quality bar *(coming soon)*
+- **Claude Code workflow for teams** — the conventions, skills and review checklist I use to keep AI-generated code at the team's quality bar
 
 ## Stack
 
